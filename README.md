@@ -1,10 +1,6 @@
 ### Hi i'm VINAY JARUGULA 👋
 
-<!--
-**vinay14052002/vinay14052002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+# 💫 About Me:
 <br><br>🔭 I’m Studying in VelTech University<br><br>🌱 I’m currently learning Web Development<br><br>📫 How to reach me vinayjarugula14@gmail.com<br>
 
 
